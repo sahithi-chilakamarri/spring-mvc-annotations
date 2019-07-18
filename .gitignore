@@ -8,3 +8,9 @@ dependency-reduced-pom.xml
 buildNumber.properties
 .mvn/timing.properties
 *.jar
+KeepNote-Step1-Boilerplate.iml
+.classpath
+.hobbes
+.idea/
+.settings/
+.project
